@@ -3,4 +3,4 @@
 This is a simple readme file
 adding some text.
 
-I hope this is'nt much of trouble
+This is bound to cause trouble
